@@ -1,4 +1,4 @@
-export ENV_NAME=node
+export ENV_NAME=Coding4Beginner-Tutorial
 export ENV_HOME=$PWD
 export     HOME=$ENV_HOME
 
