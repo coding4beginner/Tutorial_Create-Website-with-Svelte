@@ -1,0 +1,24 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      create-vite:
+        specifier: ^5.5.2
+        version: 5.5.2
+
+packages:
+
+  create-vite@5.5.2:
+    resolution: {integrity: sha512-glwkD5XS2NzNldnYfdyMHZjG15D0LkUvpzbPvwyLtNxiWjpfMvbS430saoBl7B1J3ldJpbtov7dkQVJN0jkn9Q==}
+    engines: {node: ^18.0.0 || >=20.0.0}
+    hasBin: true
+
+snapshots:
+
+  create-vite@5.5.2: {}
