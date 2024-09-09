@@ -2,7 +2,7 @@
 .local
 .venv
 
-.config/gh/host.yml
+.config/gh
 
 node_modules
 
