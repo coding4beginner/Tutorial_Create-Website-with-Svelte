@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1725869089,,"wq"
+|2,0,1725869307,,"wq"
 :w
-|2,0,1725869089,,"w"
+|2,0,1725869306,,"w"
 :q
 |2,0,1725869048,,"q"
 
@@ -27,14 +27,42 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	
+|3,1,1,1,1,0,1725869305,""
+"2	LINE	0
+	!.env.test
+|3,0,2,1,1,0,1725869304,"!.env.test"
+"3	LINE	0
+	!.env.example
+|3,0,3,1,1,0,1725869304,"!.env.example"
+"4	LINE	0
+	.env.*
+|3,0,4,1,1,0,1725869304,".env.*"
+"5	LINE	0
+	.env
+|3,0,5,1,1,0,1725869303,".env"
+"6	LINE	0
+	# Env
+|3,0,6,1,1,0,1725869303,"# Env"
 
 # File marks:
-'0  3  0  ~/.gitignore
-|4,48,3,0,1725869089,"~/.gitignore"
-'1  1  0  ~/README.md
-|4,49,1,0,1725869048,"~/README.md"
+'0  18  0  ~/.gitignore
+|4,48,18,0,1725869307,"~/.gitignore"
+'1  5  0  ~/.gitignore
+|4,49,5,0,1725869089,"~/.gitignore"
+'2  3  0  ~/.gitignore
+|4,50,3,0,1725869089,"~/.gitignore"
+'3  1  0  ~/README.md
+|4,51,1,0,1725869048,"~/README.md"
 
 # Jumplist (newest first):
+-'  18  0  ~/.gitignore
+|4,39,18,0,1725869307,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1725869281,"~/.gitignore"
+-'  5  0  ~/.gitignore
+|4,39,5,0,1725869089,"~/.gitignore"
 -'  3  0  ~/.gitignore
 |4,39,3,0,1725869089,"~/.gitignore"
 -'  1  0  ~/.gitignore
@@ -43,15 +71,22 @@
 |4,39,1,0,1725869048,"~/README.md"
 -'  1  0  ~/README.md
 |4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1725869089	0
-	"	3	0
-	^	3	0
-	.	2	0
-	+	2	0
+	*	1725869306	0
+	"	18	0
+	^	16	7
+	.	18	0
+	+	4	0
+	+	2	6
+	+	16	6
+	+	18	0
 
 > ~/README.md
 	*	1725869034	0
