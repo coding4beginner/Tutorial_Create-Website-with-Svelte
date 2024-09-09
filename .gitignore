@@ -4,6 +4,8 @@
 
 .config/gh
 
+.viminfo
+
 node_modules
 
 # Output
