@@ -6,3 +6,6 @@
 [credential "https://gist.github.com"]
 	helper = 
 	helper = !/usr/local/bin/gh auth git-credential
+[user]
+	name = Coding4Beginner
+	email = coding4beginner@via-internet.de

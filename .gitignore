@@ -2,6 +2,8 @@
 .local
 .venv
 
+.config/gh/host.yml
+
 node_modules
 
 # Output

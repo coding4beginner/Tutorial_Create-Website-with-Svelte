@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1725869307,,"wq"
+|2,0,1725869397,,"wq"
 :w
-|2,0,1725869306,,"w"
+|2,0,1725869396,,"w"
 :q
 |2,0,1725869048,,"q"
 
@@ -27,9 +27,9 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+"1	LINE	0
 	
-|3,1,1,1,1,0,1725869305,""
+|3,0,1,1,1,0,1725869305,""
 "2	LINE	0
 	!.env.test
 |3,0,2,1,1,0,1725869304,"!.env.test"
@@ -45,28 +45,159 @@
 "6	LINE	0
 	# Env
 |3,0,6,1,1,0,1725869303,"# Env"
+""-	CHAR	0
+	r14r
+|3,1,36,0,1,0,1725869341,"r14r"
 
 # File marks:
-'0  18  0  ~/.gitignore
-|4,48,18,0,1725869307,"~/.gitignore"
-'1  5  0  ~/.gitignore
-|4,49,5,0,1725869089,"~/.gitignore"
-'2  3  0  ~/.gitignore
-|4,50,3,0,1725869089,"~/.gitignore"
-'3  1  0  ~/README.md
-|4,51,1,0,1725869048,"~/README.md"
+'0  6  0  ~/.gitignore
+|4,48,6,0,1725869397,"~/.gitignore"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1725869359,"~/.git/COMMIT_EDITMSG"
+'2  11  23  ~/.gitconfig
+|4,50,11,23,1725869346,"~/.gitconfig"
+'3  20  0  ~/.gitignore
+|4,51,20,0,1725869307,"~/.gitignore"
+'4  18  0  ~/.gitignore
+|4,52,18,0,1725869307,"~/.gitignore"
+'5  7  0  ~/.gitignore
+|4,53,7,0,1725869089,"~/.gitignore"
+'6  3  0  ~/.gitignore
+|4,54,3,0,1725869089,"~/.gitignore"
+'7  5  0  ~/.gitignore
+|4,55,5,0,1725869089,"~/.gitignore"
+'8  3  0  ~/.gitignore
+|4,56,3,0,1725869089,"~/.gitignore"
+'9  1  0  ~/README.md
+|4,57,1,0,1725869048,"~/README.md"
 
 # Jumplist (newest first):
+-'  6  0  ~/.gitignore
+|4,39,6,0,1725869397,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1725869387,"~/.gitignore"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725869359,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1725869359,"~/.git/COMMIT_EDITMSG"
+-'  11  23  ~/.gitconfig
+|4,39,11,23,1725869346,"~/.gitconfig"
+-'  11  23  ~/.gitconfig
+|4,39,11,23,1725869346,"~/.gitconfig"
+-'  11  23  ~/.gitconfig
+|4,39,11,23,1725869346,"~/.gitconfig"
+-'  11  23  ~/.gitconfig
+|4,39,11,23,1725869346,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1725869322,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1725869322,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1725869322,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1725869322,"~/.gitconfig"
+-'  20  0  ~/.gitignore
+|4,39,20,0,1725869307,"~/.gitignore"
+-'  18  0  ~/.gitignore
+|4,39,18,0,1725869307,"~/.gitignore"
+-'  18  0  ~/.gitignore
+|4,39,18,0,1725869307,"~/.gitignore"
+-'  18  0  ~/.gitignore
+|4,39,18,0,1725869307,"~/.gitignore"
 -'  18  0  ~/.gitignore
 |4,39,18,0,1725869307,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1725869281,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1725869281,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1725869281,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1725869281,"~/.gitignore"
+-'  7  0  ~/.gitignore
+|4,39,7,0,1725869089,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1725869089,"~/.gitignore"
+-'  5  0  ~/.gitignore
+|4,39,5,0,1725869089,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1725869089,"~/.gitignore"
+-'  5  0  ~/.gitignore
+|4,39,5,0,1725869089,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1725869089,"~/.gitignore"
+-'  5  0  ~/.gitignore
+|4,39,5,0,1725869089,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1725869089,"~/.gitignore"
 -'  5  0  ~/.gitignore
 |4,39,5,0,1725869089,"~/.gitignore"
 -'  3  0  ~/.gitignore
 |4,39,3,0,1725869089,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1725869084,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1725869084,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1725869084,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1725869084,"~/.gitignore"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1725869048,"~/README.md"
 -'  1  0  ~/README.md
 |4,39,1,0,1725869048,"~/README.md"
 -'  1  0  ~/README.md
@@ -79,14 +210,27 @@
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1725869306	0
-	"	18	0
-	^	16	7
-	.	18	0
+	*	1725869396	0
+	"	6	0
+	^	6	0
+	.	5	19
 	+	4	0
 	+	2	6
-	+	16	6
-	+	18	0
+	+	18	6
+	+	20	0
+	+	5	19
+
+> ~/.git/COMMIT_EDITMSG
+	*	1725869357	0
+	"	1	0
+
+> ~/.gitconfig
+	*	1725869346	0
+	"	11	23
+	^	11	24
+	.	11	23
+	+	10	23
+	+	11	23
 
 > ~/README.md
 	*	1725869034	0
