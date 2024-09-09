@@ -1,0 +1,22 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".vscode-insiders": true,
+        "node_modules": true,
+        ".local": true,
+        ".cache": true,
+        ".venv": true,
+        ".svelte-kit": true,
+        "Library": true,
+        ".config": true,
+        "set_env.sh": true,
+        "**/.envrc": true,
+        "pnpm-lock.yaml": true
+    },
+    "explorerExclude.backup": {}
+}
